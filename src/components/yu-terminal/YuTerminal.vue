@@ -409,7 +409,7 @@ onMounted(() => {
         `<a href="//chat.richdev.cn" target='_blank'> 自研Chat</a>`
     );
     terminal.writeTextOutput(
-      `Author <a href="//richdev.cn" target="_blank">更多</a>` +
+      `Author <a href="//baidu.com" target="_blank">baidu</a>` +
         `: please input 'help' to enjoy`
     );
     terminal.writeTextOutput("<br/>");
