@@ -409,7 +409,7 @@ onMounted(() => {
         `<a href="//chats.richdev.cn" target='_blank'> ChatAI For Global</a>`
     );
     terminal.writeTextOutput(
-      `Author <a href="//baidu.com" target="_blank">baidu</a>` +
+      `Author <a href="//baidu.com" target="_blank">Zipei</a>` +
         `: please input 'help' to enjoy`
     );
     terminal.writeTextOutput("<br/>");
