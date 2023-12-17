@@ -406,7 +406,7 @@ onMounted(() => {
   } else {
     terminal.writeTextOutput(
       `Welcome to Bash_Index, coolest browser index for geeks!` +
-        `<a href="//chat.richdev.cn" target='_blank'> 自研Chat</a>`
+        `<a href="//chats.richdev.cn" target='_blank'> Chat For Global</a>`
     );
     terminal.writeTextOutput(
       `Author <a href="//baidu.com" target="_blank">baidu</a>` +
